@@ -59,7 +59,7 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "Misskey",
-			icon: "hugeicons:sakura", // Visit https://icones.js.org/ for icon codes
+			icon: "fa6-brands:envira", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://misskey.flowers/@ngc2237",
@@ -71,7 +71,7 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "Email",
-			icon: "material-symbols:alternate-email",
+			icon: "material-symbols:mail",
 			url: "maito:contact.lamn@icloud.com",
 		},
 	],
