@@ -13,7 +13,7 @@ export type Translation = {
 	[K in I18nKey]: string;
 };
 
-const defaultTranslation = en;
+const defaultTranslation = vi;
 
 const map: { [key: string]: Translation } = {
 	es: es,
