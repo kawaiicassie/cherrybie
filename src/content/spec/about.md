@@ -1,7 +1,7 @@
 # About
 This is the demo site for [Cherrybie](https://github.com/kawaiicassie/cherrybie).
 
-::github{repo="aicaca/fuwari"}
+::github{repo="kawaiicassie/cherrybie"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)
