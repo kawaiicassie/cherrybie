@@ -1,9 +1,10 @@
 ---
-title: "Hướng Dẫn Sử Dụng Fly.io Cơ Bản"
-date: "2023-10-25"
-description: "Bài viết hướng dẫn cách sử dụng Fly.io cơ bản để triển khai ứng dụng một cách dễ dàng."
-category: "Công Nghệ"
-tags: ["Fly.io", "Deployment", "Cloud"]
+title: 'Hướng Dẫn Sử Dụng Fly.io Cơ Bản'
+published: 2025-07-16
+description: 'Bài viết hướng dẫn cách sử dụng Fly.io cơ bản để triển khai ứng dụng một cách dễ dàng.'
+category: 'Công Nghệ'
+tags: ['Fly.io', 'Deployment', 'Cloud']
+draft: false
 ---
 
 ## Giới Thiệu
